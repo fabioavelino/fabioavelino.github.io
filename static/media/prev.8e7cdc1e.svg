@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>caret</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(50.000000, 49.500000) scale(-1, 1) translate(-50.000000, -49.500000) translate(14.000000, 1.000000)" fill="#343434">
+            <rect id="Rectangle" transform="translate(36.000000, 28.000000) rotate(-55.000000) translate(-36.000000, -28.000000) " x="31" y="-12" width="10" height="80" rx="5"></rect>
+            <rect id="Rectangle-Copy" transform="translate(36.000000, 69.000000) scale(1, -1) rotate(-55.000000) translate(-36.000000, -69.000000) " x="31" y="29" width="10" height="80" rx="5"></rect>
+        </g>
+    </g>
+</svg>
